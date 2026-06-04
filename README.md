@@ -74,3 +74,5 @@ $env:HTTP_PROXY="http://127.0.0.1:8000"; $env:HTTPS_PROXY="http://127.0.0.1:8000
 
 ---
 📝 **License:** MIT
+
+See [Architecture Overview](docs/ARCHITECTURE.md) for more details.
